@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Student Blog
+title: Katie's Blog
 ---
 
-## Luna's Page
+## Katie's Page
+Go to my [Github account](https://github.com/katiehua) !!
 
-Go to my [Github account](https://github.com/lunaiwa) !!
+- Hi! My name is Katie.
+
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
