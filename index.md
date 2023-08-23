@@ -12,12 +12,12 @@ Welcome to my blog! This page is dedicated to letting you know a bit more about 
 - I am very interested in the field of STEM
 
 ### My Trimester 1 Class Schedule
-| Period - Class |
+|| Period - Class |
 | 1 - AP English Language |
 | 2 - Bridge/AP Calculus BC  Seminar |
 | 3 - AP Chemistry |
 | 4 - AP Computer Science Principles |
-| 5 - Off roll |
+| 5 - Off roll ||
 
 
 <img src="./images/freeform_drawing.jpg" alt="freeform about me drawing" style="float:left;width:349.25px;height:479.5px;">
