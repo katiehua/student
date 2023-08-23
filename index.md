@@ -20,5 +20,5 @@ Welcome to my blog! This page is dedicated to letting you know a bit more about 
 |   4   | AP Computer Science Principles |
 |   5   |            Off roll            |
 
-<p><img src="freeform_drawing.jpg" alt="freeform about me drawing" style="float:left;width:399px;height:639.33px;">
+<p><img src="freeform_drawing.jpg" alt="freeform about me drawing" style="float:left;width:299.25px;height:479.5px;">
 </p>
