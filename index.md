@@ -6,7 +6,7 @@ title: Katie's Blog
 ## Katie's Page
 Welcome to my blog! This page is dedicated to letting you know a bit more about me.
 
-## About Me!
+## About Me
 - Hi! My name is Katie. 😄
 - I am a current junior at Del Norte High School.
 - I am very interested in the field of STEM
