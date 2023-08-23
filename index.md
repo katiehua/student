@@ -4,8 +4,20 @@ title: Katie's Blog
 ---
 
 ## Katie's Page
-Go to my [Github account](https://github.com/katiehua) !!
+Welcome to my blog! This page is dedicated to letting you know a bit more about me.
 
-- Hi! My name is Katie. :smile:
+## About Me!
+- Hi! My name is Katie. 😄
 - I am a current junior at Del Norte High School.
-- Welcome to my page!
+- I am very interested in the field of STEM
+
+### My Trimester 1 Class Schedule
+| Period | Class |
+| -------- | -------- |
+| 1 | AP English Language |
+| 2 | Bridge/AP Calculus BC  Seminar |
+| 3 | AP Chemistry |
+| 4 | AP Computer Science Principles |
+| 5 | Off roll |
+
+![freeform about me drawing](freeform_drawing.jpg)
