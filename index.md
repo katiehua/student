@@ -21,5 +21,5 @@ Welcome to my blog! This page is dedicated to letting you know a bit more about 
 |   5   |            Off roll            |
 
 
-<img src="./images/freeform_drawing.jpg" alt="freeform about me drawing" style="float:left;width:299.25px;height:479.5px;">
+<img src="./images/freeform_drawing.jpg" alt="freeform about me drawing" style="float:left;width:349.25px;height:479.5px;">
 
