@@ -11,6 +11,11 @@ Welcome to my blog! This page is dedicated to letting you know a bit more about 
 - I am a current junior at Del Norte High School.
 - I am very interested in the field of STEM
 
+<li class="fork"><a href="https://nighthawkcoders.github.io/teacher/">Home</a></li>
+<li class="fork"><a href="https://nighthawkcoders.github.io/teacher/csp">CSP</a></li>
+<li class="fork"><a href="https://github.com/katiehua">My GitHub Page</a></li>
+<li class="fork"><a href="https://github.com/katiehua/student">Student Repository</a></li>
+
 ## My Trimester 1 Class Schedule
 <p>|   Period   |               Class               |</p>
 <p>|     1      |        AP English Language        |</p>
