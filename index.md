@@ -17,13 +17,32 @@ Welcome to my blog! This page is dedicated to letting you know a bit more about 
 <li class="fork"><a href="https://github.com/katiehua/student">Student Repository</a></li>
 
 ## My Trimester 1 Class Schedule
-<p>|   Period   |               Class               |</p>
-<p>|     1      |        AP English Language        |</p>
-<p>|     2      |   Bridge/AP Calculus BC  Seminar  |</p>
-<p>|     3      |            AP Chemistry           |</p>
-<p>|     4      |   AP Computer Science Principles  |</p>
-<p>|     5      |              Off roll             |</p>
-
+<table>
+    <tr>
+        <td>Period</td>
+        <td>Class</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>AP Engligh Language</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Bridge/AP Calculus BC Seminar</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>AP Chemistry</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>AP Computer Science Principles</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Off roll</td>
+    </tr>
+</table>
 
 <img src="./images/freeform_drawing.jpg" alt="freeform about me drawing" style="float:left;width:349.25px;height:479.5px;">
 
